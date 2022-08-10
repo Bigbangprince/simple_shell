@@ -1,5 +1,5 @@
 B.\"Manpage for simple shell
-.\"Created by Umoren Didi and Osunlakin Joshua
+.\"Created by Umoren Enwongo and Osunlakin Joshua
 
 <<<<<<< HEAD
 .TH ZAPASH 1 "August 2022" "ALX School" "ZAPA SHELL - Simple Shell man page"
@@ -14,7 +14,7 @@ zapash\fR \- simple UNIX command interpreter
 zapash\fR [\fIfilename\fR]
 
 .SH COPYRIGHT
-zapash is Copyright (C) 2022 by Umoren Didi and Osunlakin Joshua
+zapash is Copyright (C) 2022 by Umoren Enwongo and Osunlakin Joshua
 
 .SH DESCRIPTION
 zapash\fR is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
@@ -99,4 +99,4 @@ access(2), chdir(2), execve(2), _exit(2), exit(3), fflush(3), fork(2), free(3), 
 zapash\fR takes basic functionality of the \fBsh\fR shell. This man page is based on the man page bash(1)
 
 .SH AUTHORS
-Umoren Didi and Osunlakin Joshua.
+Umoren Enwongo and Osunlakin Joshua.
